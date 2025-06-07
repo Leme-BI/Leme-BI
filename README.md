@@ -8,9 +8,9 @@
 
 Analista de Dados com experiência em transformar dados em insights estratégicos para tomada de decisão. Apaixonado por tecnologia, dashboards interativos e automações com Python e SQL. Em busca de oportunidades globais e crescimento constante.
 
----
+---💡
 
-### 🛠️ Principais Skills
+### 💡 Principais Habilidades
 
 • Extração, limpeza e transformação de dados com foco em eficiência e qualidade da informação
 
@@ -20,9 +20,9 @@ Analista de Dados com experiência em transformar dados em insights estratégico
 
 • Aplicação de técnicas estatísticas para análise exploratória, identificação de padrões e apoio à tomada de decisão baseada em dados
 
----
+--- 
 
-### 📊 GitHub Stats
+### 🛠️
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=tokyonight)
 
@@ -30,7 +30,7 @@ Analista de Dados com experiência em transformar dados em insights estratégico
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-leme-345676188)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-leme-345676188/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seuportfolio.com)
 
 
