@@ -1,4 +1,4 @@
-![Gabriel Leme (2)](https://github.com/user-attachments/assets/cd356580-aa46-49b1-843f-0b0e04e68409)
+![Gabriel Leme (3)](https://github.com/user-attachments/assets/ecac9ff6-5f16-4f56-9a3f-99364bf141d2)
 
 Seja bem vindo (a)! 👋
 
