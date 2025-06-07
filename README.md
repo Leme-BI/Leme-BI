@@ -38,7 +38,6 @@ Sou um profissional com experiência em extração, tratamento e análise de dad
 
 ### Repositórios
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-leme-345676188/)
-[![Portfólio]](https://github.com/Leme-BI/portfolio)
+•[!Dashboards com Power BI](https://github.com/Leme-BI/portfolio)
 
 
