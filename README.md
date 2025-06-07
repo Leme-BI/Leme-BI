@@ -13,8 +13,11 @@ Sou um profissional com experiência em extração, tratamento e análise de dad
 ### 💡 Principais Habilidades
 
 • Extração, limpeza e transformação de dados com foco em eficiência e qualidade da informação
+
 • Criação de dashboards interativos e visuais intuitivos no Power BI e Excel
+
 • Automação de relatórios com scripts em Python e processos otimizados para tomada de decisão
+
 • Aplicação de técnicas estatísticas para análise exploratória, identificação de padrões e apoio à tomada de decisão baseada em dados
 
 --- 
@@ -22,9 +25,13 @@ Sou um profissional com experiência em extração, tratamento e análise de dad
 ### 🛠️ Ferramentas
 
 • Power BI
+
 • SQL Server
-• Python 
+
+• Python
+
 • Figma
+
 • Excel
 
 ---
