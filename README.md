@@ -8,23 +8,18 @@
 
 Analista de Dados com experiência em transformar dados em insights estratégicos para tomada de decisão. Apaixonado por tecnologia, dashboards interativos e automações com Python e SQL. Em busca de oportunidades globais e crescimento constante.
 
----💡
+---
 
 ### 💡 Principais Habilidades
 
 • Extração, limpeza e transformação de dados com foco em eficiência e qualidade da informação
-
 • Criação de dashboards interativos e visuais intuitivos no Power BI e Excel
-
 • Automação de relatórios com scripts em Python e processos otimizados para tomada de decisão
-
 • Aplicação de técnicas estatísticas para análise exploratória, identificação de padrões e apoio à tomada de decisão baseada em dados
 
 --- 
 
-### 🛠️
-
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=tokyonight)
+### 🛠️ Ferramentas
 
 ---
 
