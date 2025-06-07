@@ -6,7 +6,7 @@
 💻 Apaixonado por estatística e tecnologia.  
 🎓 Cursando Ciência de Dados 
 
-Analista de Dados com experiência em transformar dados em insights estratégicos para tomada de decisão. Apaixonado por tecnologia, dashboards interativos e automações com Python e SQL. Em busca de oportunidades globais e crescimento constante.
+Sou um profissional com experiência em extração, tratamento e análise de dados, atuando com Python (NumPy, Pandas, Matplotlib, Seaborn), Power BI (com fórmulas DAX e painéis interativos) e Excel avançado para transformar dados em insights relevantes. Desenvolvo relatórios e dashboards interativos que apoiam a tomada de decisão estratégica e facilitam a visualização de informações de forma clara e eficiente.
 
 ---
 
@@ -20,6 +20,12 @@ Analista de Dados com experiência em transformar dados em insights estratégico
 --- 
 
 ### 🛠️ Ferramentas
+
+• Power BI
+• SQL Server
+• Python 
+• Figma
+• Excel
 
 ---
 
