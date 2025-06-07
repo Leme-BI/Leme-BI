@@ -1,24 +1,23 @@
 ![Gabriel Leme (3)](https://github.com/user-attachments/assets/ecac9ff6-5f16-4f56-9a3f-99364bf141d2)
+### 👋 Bem-Vindo (a)
 
-### 👋 Olá! Eu sou [Seu Nome]
+### 🙋‍♀️ Sobre mim
 
-💻 Apaixonado por estatística, dados e tecnologia.  
+💻 Apaixonado por estatística e tecnologia.  
 🎓 Cursando Ciência de Dados 
-📍 Baseado(a) em Ribeirão Preto/SP
+
+Analista de Dados com experiência em transformar dados em insights estratégicos para tomada de decisão. Apaixonado por tecnologia, dashboards interativos e automações com Python e SQL. Em busca de oportunidades globais e crescimento constante.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Principais Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=tokyonight)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&theme=tokyonight)
 
 ---
 
