@@ -2,9 +2,9 @@
 
 ### 👋 Olá! Eu sou [Seu Nome]
 
-💻 Apaixonado(a) por desenvolvimento de software, dados e tecnologia.  
-🎓 [Sua formação]  
-📍 Baseado(a) em [Cidade/País]  
+💻 Apaixonado por estatística, dados e tecnologia.  
+🎓 Cursando Ciência de Dados 
+📍 Baseado(a) em Ribeirão Preto/SP
 
 ---
 
@@ -24,7 +24,7 @@
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulink)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabriel-leme-345676188)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seuportfolio.com)
 
 
