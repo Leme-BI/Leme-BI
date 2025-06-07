@@ -38,6 +38,6 @@ Sou um profissional com experiência em extração, tratamento e análise de dad
 
 ### Repositórios
 
-   •[Relatórios em Power BI](https://github.com/Leme-BI/portfolio)
+  • [Relatórios em Power BI](https://github.com/Leme-BI/portfolio)
 
 
